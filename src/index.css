@@ -4,12 +4,25 @@ body {
   font-family: sans-serif;
 }
 
+#root {
+  margin-top: -48px;
+}
+
 .margin-auto {
   margin: 0 auto;
 }
 
 .height-30 {
   height: 30px;
+}
+
+.header-row {
+  padding: 10px;
+  background-color: #000000;
+}
+
+.header-row h1 {
+  color: #FFFFFF;
 }
 
 .App-logo {

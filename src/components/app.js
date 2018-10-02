@@ -6,7 +6,7 @@ import Form from "./form";
 
 const App = () => (
     <div>
-        <div className="row mt-5 text-center">
+        <div className="row mt-5 text-center header-row">
             <div className="margin-auto">
                 <div className="d-inline-block">
                     <img src={logo} className="App-logo" alt="logo"/>
